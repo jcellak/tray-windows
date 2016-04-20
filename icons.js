@@ -6,4 +6,5 @@ module.exports = {
   black: file(__dirname + '/icons/black.png'),
   white: file(__dirname + '/icons/white.png'),
   grey: file(__dirname + '/icons/grey.png'),
+  toolkit: file(__dirname + '/icons/toolkit.png')
 }
